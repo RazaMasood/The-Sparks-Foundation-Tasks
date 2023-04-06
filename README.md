@@ -22,7 +22,8 @@ This repository contains solutions to the Data Science and Business Analytics ta
 6. Prediction using Decision Tree Algorithm
    -Dataset : https://bit.ly/3kXTdox
 7. Stock Market Prediction using Numerical and Textual Analysis
-   -Download textual (news) data from https://bit.ly/36fFPI6
+   -historical stock prices from finance.yahoo.com
+   -textual (news) data from https://bit.ly/36fFPI6
 8. Timeline Analysis - Covid-19
    -Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
 
